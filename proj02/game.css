@@ -1,0 +1,32 @@
+body
+{
+	background:#303030;
+}
+#canvasBg
+{
+	display:block;
+	background:#ffffff;
+	margin:100px auto 0px;
+}
+#canvasPlane
+{
+	display:block;
+	margin:-550px auto 0px;
+}
+#canvasEnemy
+{
+	display:block;
+	margin:-550px auto 0px;
+}
+#score
+{
+	display:block;
+	margin:-550px auto 0px;
+
+}
+#menus
+{
+	display:block;
+	margin:-550px auto 0px;
+
+}
